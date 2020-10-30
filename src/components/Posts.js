@@ -17,6 +17,11 @@ class Posts extends React.Component {
                     <div id="collapseOne" className="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
                         <div className="card-body">
                             <div>
+                                <h3>Week 10</h3>
+                                <p>This was the most difficult week so far. We used react to make a puzzle slider game and learned about hooks to make a fishing store webiste.</p>
+                                <h6>October 30, 2020</h6>
+                            </div>
+                            <div>
                                 <h3>Week 9</h3>
                                 <p>This week we made a todo list in React. We also made a restaurant menu and continued working on the blog.</p>
                                 <h6>October 22, 2020</h6>
@@ -41,7 +46,7 @@ class Posts extends React.Component {
                             <div>
                                 <h3>Week 5</h3>
                                 <p>This week was the first week on in-person class. Being in a classroom setting helps me feel more
-                                    focused than if I were at home. We learned about the atomic principles of design, as well as some elements of
+                                focused than if I were at home. We learned about the atomic principles of design, as well as some elements of
                                     Bootstrap and Javascript.</p>
                                 <h6>September 25, 2020</h6>
                             </div>
